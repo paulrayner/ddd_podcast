@@ -34,3 +34,4 @@ Episodes
  * Being the Worst
  * ???
  * 
+* Mailing list/forum for podcast
