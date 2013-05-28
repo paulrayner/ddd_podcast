@@ -14,6 +14,7 @@ Episodes
 
 ## Suggestions:
 
+* What have we learned in DDD since 2009?
 * Aggregates
 * Event propagation
 * Validation
