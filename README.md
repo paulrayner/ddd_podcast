@@ -15,6 +15,9 @@ Episodes
 ## Suggestions:
 
 * What have we learned in DDD since 2009?
+* Mile High DDD Conference
+* Vaughn talking about the IDDD tour
+* DDD Summit
 * Aggregates
 * Event propagation
 * Validation
