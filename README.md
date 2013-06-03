@@ -31,6 +31,7 @@ Episodes
 * Discuss Reza Rahman's JEE7 port (assuming it can be open-sourced)
 * Limit your abstractions - post by Ayende Rahien on Java sample app
 * Employing reference scenarios to explore the domain
+* Your first day on a new project
 
 ## Todo
 
