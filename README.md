@@ -34,7 +34,7 @@ Episodes
 * Your first day on a new project
 * Introducing DDD to an organization
 * What is Domain-Driven Design?
-* Øredev 
+* DDD presentations at Øredev
 
 ## Todo
 
