@@ -32,6 +32,7 @@ Episodes
 * Limit your abstractions - post by Ayende Rahien on Java sample app
 * Employing reference scenarios to explore the domain
 * Your first day on a new project
+* Introducing DDD to an organization
 
 ## Todo
 
